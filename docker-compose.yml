@@ -16,4 +16,4 @@ volumes:
     driver_opts:
       o: bind
       type: none
-      device: /Users/mnies/Documents/ft_transcendence/files
+      device: files
