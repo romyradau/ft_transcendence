@@ -6,4 +6,4 @@ WORKDIR /ft_transcendence
 COPY ./files/package*.json ./
 RUN npm install
 
-ENTRYPOINT nest start
+ENTRYPOINT nest start --watch
