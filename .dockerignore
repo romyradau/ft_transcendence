@@ -1,0 +1,7 @@
+/files/backend/node_modules
+/files/frontend/node_modules
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+dist
